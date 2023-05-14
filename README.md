@@ -1,1 +1,3 @@
-# cw-ve280-data-structures-and-algorithm
+# VE280
+Shanghai Jiaotong University - University of Michigan Joint Institute
+C++ Study

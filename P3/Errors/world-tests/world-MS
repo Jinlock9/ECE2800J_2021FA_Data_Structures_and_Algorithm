@@ -1,0 +1,13 @@
+6
+6
+hop east 2 0
+flytrap east 2 2
+aa east 3 3
+bb east 3 4
+lrover east 1 1
+rrover east 3 5
+landmine west 4 5
+food south 1 3
+path_finder north 4 1
+alt_rover west 2 3
+cc east 5 5

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Workspace/VE280/P5/demo/calc.cpp
+iostream
+-
+string
+-
+dlist.h
+C:/Workspace/VE280/P5/demo/dlist.h
+
+C:/Workspace/VE280/P5/demo/dlist.h
+dlist_impl.h
+C:/Workspace/VE280/P5/demo/dlist_impl.h
+
+C:/Workspace/VE280/P5/demo/dlist_impl.h
+
